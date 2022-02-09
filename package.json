@@ -1,0 +1,14 @@
+{
+  "name": "OpenDoor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/opend00r/OpenDoor-Server-Backend",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "nedb": "https://github.com/HalleyAssist/nedb"
+  }
+}
